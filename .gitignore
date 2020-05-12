@@ -1,0 +1,7 @@
+# ignoring trained_rnn.pt
+.pt
+
+trained_rnn.pt
+.DS_Store
+dlnd_tv_script_generation.html
+
